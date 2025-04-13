@@ -2,7 +2,7 @@ from googleapiclient.discovery import build
 import os
 
 # 🔹 Replace with your YouTube API key
-YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY", "AIzaSyBhz43LzgW_tqRhSurArDC0AEXq31pKZSw")
+YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY", "AIzaSyBCawsfKJfCmsTdutIzVzOvuzLuso2Qrl4")
 
 def fetch_youtube_courses(query: str, max_results: int = 5):
     """Fetch courses from YouTube based on a search query."""
