@@ -1,0 +1,10 @@
+export MONGO_URI="mongodb+srv://dhruvdawar11022006:dd110206@cluster0.h7e0n.mongodb.net/"
+export CLOUD_NAME="dacktqtlm"
+export CLOUD_API_KEY="789292238951276"
+export CLOUD_API_SECRET="NaqN5TBybjx9OMcuY9aibTuYurw"
+export JWT_SECRET="1234"
+
+
+export MONGO_URI="mongodb+srv://dhruvdawar11022006:dd110206@cluster0.gohdq.mongodb.net/"
+export DB_NAME="visionx"
+export GROQ_API_KEY="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"
